@@ -32,6 +32,14 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 </div>
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafabendary&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
+
 
 
 ## 🚀 Skills & Tools
