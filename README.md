@@ -1,45 +1,100 @@
 # Hi there 👋
 I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 
-## 🛠️ DevOps Tools  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" style="margin-right:10px;" alt="Terraform" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="40" style="margin-right:10px;" alt="Jenkins" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" style="margin-right:10px;" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+## 🛠️ DevOps Tools
+
+<p align="left">
+  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="80" alt="Terraform" /><br>
+    Terraform
+  </span>
+  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="80" alt="Jenkins" /><br>
+    Jenkins
+  </span>
+  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="80" alt="Docker" /><br>
+    Docker
+  </span>
+  <span align="center" style="display:inline-block; width:100px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="80" alt="Kubernetes" /><br>
+    Kubernetes
+  </span>
 </p>
 
-## ⚙️ CI/CD & Version Control  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" style="margin-right:10px;" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" style="margin-right:10px;" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket" />
+## ⚙️ CI/CD & Version Control
+
+<p align="left">
+  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="80" alt="GitHub" /><br>
+    GitHub
+  </span>
+  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="80" alt="Git" /><br>
+    Git
+  </span>
+  <span align="center" style="display:inline-block; width:100px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" height="80" alt="Bitbucket" /><br>
+    Bitbucket
+  </span>
 </p>
 
-## 📈 Monitoring & Logging  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="40" style="margin-right:10px;" alt="Prometheus" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
+## 📈 Monitoring & Logging
+
+<p align="left">
+  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="80" alt="Prometheus" /><br>
+    Prometheus
+  </span>
+  <span align="center" style="display:inline-block; width:100px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="80" alt="Grafana" /><br>
+    Grafana
+  </span>
 </p>
 
-## ☁️ Cloud Platforms  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" style="margin-right:10px;" alt="Azure" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="40" alt="AWS" />
+## ☁️ Cloud Platforms
+
+<p align="left">
+  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="80" alt="Azure" /><br>
+    Azure
+  </span>
+  <span align="center" style="display:inline-block; width:100px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="80" alt="AWS" /><br>
+    AWS
+  </span>
 </p>
 
-## 💻 Languages, Scripting & Databases  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" style="margin-right:10px;" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" style="margin-right:10px;" alt="Bash" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+## 💻 Languages, Scripting & Databases
+
+<p align="left">
+  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80" alt="Python" /><br>
+    Python
+  </span>
+  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="80" alt="Bash" /><br>
+    Bash
+  </span>
+  <span align="center" style="display:inline-block; width:100px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="80" alt="MySQL" /><br>
+    MySQL
+  </span>
 </p>
 
-## 🖥️ Operating Systems  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" style="margin-right:10px;" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
+## 🖥️ Operating Systems
+
+<p align="left">
+  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="80" alt="Linux" /><br>
+    Linux
+  </span>
+  <span align="center" style="display:inline-block; width:100px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="80" alt="Windows" /><br>
+    Windows
+  </span>
 </p>
+
 
 
 ## 📊 GitHub Statistics
