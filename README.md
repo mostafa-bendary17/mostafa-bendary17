@@ -1,49 +1,20 @@
 # Hi there 👋
 I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 
-## 🚀 Skills & Tools (Animated Glowing Icons)
+## 🚀 Skills & Tools
 
 <div align="center">
 
-<!-- AWS -->
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="65"/>
-<br><b>AWS</b>
-<br><br>
-
-<!-- Azure -->
-<img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="azure" width="65"/>
-<br><b>Azure</b>
-<br><br>
-
-<!-- Docker -->
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="65"/>
-<br><b>Docker</b>
-<br><br>
-
-<!-- Kubernetes -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="65"/>
-<br><b>Kubernetes</b>
-<br><br>
-
-<!-- Terraform -->
-<img src="https://techstack-generator.vercel.app/terraform-icon.svg" alt="terraform" width="65"/>
-<br><b>Terraform</b>
-<br><br>
-
-<!-- Jenkins -->
-<img src="https://techstack-generator.vercel.app/jenkins-icon.svg" alt="jenkins" width="65"/>
-<br><b>Jenkins</b>
-<br><br>
-
-<!-- GitHub -->
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65"/>
-<br><b>GitHub</b>
-<br><br>
-
-<!-- Python -->
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65"/>
-<br><b>Python</b>
-<br><br>
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" />
+<img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="Azure" width="60" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="60" />
+<img src="https://techstack-generator.vercel.app/terraform-icon.svg" alt="Terraform" width="60" />
+<img src="https://techstack-generator.vercel.app/jenkins-icon.svg" alt="Jenkins" width="60" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" />
+<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="60" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" />
+<img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="60" />
 
 </div>
 
