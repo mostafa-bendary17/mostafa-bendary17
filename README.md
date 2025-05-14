@@ -26,8 +26,6 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 <!-- 🔧 Linux (Static Replacement) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" />
 
-<img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/github-actions/github-actions.svg" alt="GitHub Actions" width="60"/>
-
 <!-- ✅ GitHub (Animated) -->
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" />
 
