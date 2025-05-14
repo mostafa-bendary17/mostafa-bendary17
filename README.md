@@ -1,10 +1,52 @@
 # Hi there 👋
 I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning DevSecOps...
-- 💬 Ask me about CI/CD, Terraform, Kubernetes...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mostafabendary)
+## 🚀 Skills & Tools (Animated)
+
+<div align="center">
+
+<!-- AWS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="70"/>
+<br><b>AWS</b>
+<br><br>
+
+<!-- Azure -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="70"/>
+<br><b>Azure</b>
+<br><br>
+
+<!-- Docker -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70"/>
+<br><b>Docker</b>
+<br><br>
+
+<!-- Kubernetes (animated SVG idea) -->
+<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" width="70"/>
+<br><b>Kubernetes</b>
+<br><br>
+
+<!-- Terraform -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="70"/>
+<br><b>Terraform</b>
+<br><br>
+
+<!-- Ansible -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="70"/>
+<br><b>Ansible</b>
+<br><br>
+
+<!-- Jenkins -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="70"/>
+<br><b>Jenkins</b>
+<br><br>
+
+<!-- GitHub Actions (Animated SVG from Lottie) -->
+<img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/github-actions/github-actions.svg" width="70"/>
+<br><b>GitHub Actions</b>
+<br><br>
+
+</div>
+
 
 ## 🛠️ Skills & Tools
 
