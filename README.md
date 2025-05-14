@@ -3,20 +3,69 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 
 ## 🚀 Skills & Tools
 
+### 🛠️ DevOps Tools
+
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" />
-<img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="Azure" width="60" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" />
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="60" />
-<img src="https://techstack-generator.vercel.app/terraform-icon.svg" alt="Terraform" width="60" />
-<img src="https://techstack-generator.vercel.app/jenkins-icon.svg" alt="Jenkins" width="60" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" />
-<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="60" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" />
-<img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="60" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60"/>
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="60"/>
+<img src="https://techstack-generator.vercel.app/terraform-icon.svg" alt="Terraform" width="60"/>
+<img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="60"/>
 
 </div>
+
+---
+
+### ⚙️ CI/CD & Version Control
+
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60"/>
+<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="60"/>
+<img src="https://techstack-generator.vercel.app/jenkins-icon.svg" alt="Jenkins" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="60"/>
+<img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/github-actions/github-actions.svg" alt="GitHub Actions" width="60"/>
+
+</div>
+
+---
+
+### 📈 Monitoring & Logging
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="60"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kibana.svg" alt="Kibana" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="Argo CD" width="60"/>
+
+</div>
+
+---
+
+### ☁️ Cloud Platforms
+
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60"/>
+<img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="Azure" width="60"/>
+
+</div>
+
+---
+
+### 💻 Languages & Scripting
+
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="60"/>
+<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="60"/>
+<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="60"/>
+
+</div>
+
 
 
 
