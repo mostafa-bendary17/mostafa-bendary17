@@ -1,35 +1,45 @@
 # Hi there 👋
 I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 
-## 🚀 Skills & Tools (Fixed + Animated Style)
+## 🛠️ DevOps Tools  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" style="margin-right:10px;" alt="Terraform" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="40" style="margin-right:10px;" alt="Jenkins" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" style="margin-right:10px;" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+</p>
 
-<div align="center">
+## ⚙️ CI/CD & Version Control  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" style="margin-right:10px;" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" style="margin-right:10px;" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket" />
+</p>
 
-<!-- ✅ Docker (Animated) -->
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" />
+## 📈 Monitoring & Logging  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="40" style="margin-right:10px;" alt="Prometheus" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
+</p>
 
-<!-- ✅ Kubernetes (Animated) -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="60" />
+## ☁️ Cloud Platforms  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" style="margin-right:10px;" alt="Azure" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="40" alt="AWS" />
+</p>
 
-<!-- 🔧 Terraform (Static Replacement) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="60" />
+## 💻 Languages, Scripting & Databases  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" style="margin-right:10px;" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" style="margin-right:10px;" alt="Bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+</p>
 
-<!-- 🔧 Azure (Static Replacement) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="60" />
-
-<!-- 🔧 Jenkins (Static Replacement) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" />
-
-<!-- 🔧 Git (Static Replacement) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" />
-
-<!-- 🔧 Linux (Static Replacement) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" />
-
-<!-- ✅ GitHub (Animated) -->
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" />
-
-</div>
+## 🖥️ Operating Systems  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" style="margin-right:10px;" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
+</p>
 
 
 ## 📊 GitHub Statistics
