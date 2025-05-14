@@ -37,15 +37,16 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 <table>
   <tr>
     <td align="center" width="50%">
-      <strong>GitHub Stats</strong><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=mostafabendary&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="300"/>
+      <strong style="font-size: 20px;">GitHub Stats</strong><br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=mostafabendary&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="450" />
     </td>
     <td align="center" width="50%">
-      <strong>Most Used Languages</strong><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafabendary&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="300"/>
+      <strong style="font-size: 20px;">Most Used Languages</strong><br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafabendary&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="450" />
     </td>
   </tr>
 </table>
+
 
 
 ### 🛠️ DevOps Tools
