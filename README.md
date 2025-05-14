@@ -47,6 +47,15 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 </div>
 
 
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostafabendary&theme=tokyonight&hide_border=true)
+
+</div>
+
+
+
+
 ## 🚀 Skills & Tools
 
 ### 🛠️ DevOps Tools
