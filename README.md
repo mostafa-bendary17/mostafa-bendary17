@@ -3,20 +3,20 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 
 ## 🛠️ DevOps Tools
 
-<p align="left">
-  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+<p align="center">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="80" alt="Terraform" /><br>
     Terraform
   </span>
-  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="80" alt="Jenkins" /><br>
     Jenkins
   </span>
-  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="80" alt="Docker" /><br>
     Docker
   </span>
-  <span align="center" style="display:inline-block; width:100px;">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="80" alt="Kubernetes" /><br>
     Kubernetes
   </span>
@@ -24,16 +24,16 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 
 ## ⚙️ CI/CD & Version Control
 
-<p align="left">
-  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+<p align="center">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="80" alt="GitHub" /><br>
     GitHub
   </span>
-  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="80" alt="Git" /><br>
     Git
   </span>
-  <span align="center" style="display:inline-block; width:100px;">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" height="80" alt="Bitbucket" /><br>
     Bitbucket
   </span>
@@ -41,12 +41,12 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 
 ## 📈 Monitoring & Logging
 
-<p align="left">
-  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+<p align="center">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="80" alt="Prometheus" /><br>
     Prometheus
   </span>
-  <span align="center" style="display:inline-block; width:100px;">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="80" alt="Grafana" /><br>
     Grafana
   </span>
@@ -54,12 +54,12 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 
 ## ☁️ Cloud Platforms
 
-<p align="left">
-  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+<p align="center">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="80" alt="Azure" /><br>
     Azure
   </span>
-  <span align="center" style="display:inline-block; width:100px;">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="80" alt="AWS" /><br>
     AWS
   </span>
@@ -67,16 +67,16 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 
 ## 💻 Languages, Scripting & Databases
 
-<p align="left">
-  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+<p align="center">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80" alt="Python" /><br>
     Python
   </span>
-  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="80" alt="Bash" /><br>
     Bash
   </span>
-  <span align="center" style="display:inline-block; width:100px;">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="80" alt="MySQL" /><br>
     MySQL
   </span>
@@ -84,17 +84,16 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 
 ## 🖥️ Operating Systems
 
-<p align="left">
-  <span align="center" style="display:inline-block; width:100px; margin-right:15px;">
+<p align="center">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="80" alt="Linux" /><br>
     Linux
   </span>
-  <span align="center" style="display:inline-block; width:100px;">
+  <span style="display:inline-block; width:120px; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="80" alt="Windows" /><br>
     Windows
   </span>
 </p>
-
 
 
 ## 📊 GitHub Statistics
