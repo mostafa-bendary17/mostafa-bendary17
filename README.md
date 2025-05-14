@@ -32,59 +32,19 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 </div>
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafabendary&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafabendary&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostafabendary&theme=tokyonight&hide_border=true)
-
-</div>
-
-
-
-
-## 🚀 Skills & Tools
-
 ## 📊 GitHub Statistics
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>Most Used Languages</strong><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafabendary&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-    </td>
-    <td align="center">
-      <strong>Top Languages by Repo</strong><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafabendary&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages by Repo" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Top Languages by Commit</strong><br><br>
-      <img src="https://img.shields.io/badge/Bash-commits-blue?style=for-the-badge&logo=gnubash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-commits-yellow?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Terraform-commits-purple?style=for-the-badge&logo=terraform&logoColor=white" />
-      <img src="https://img.shields.io/badge/YAML-commits-orange?style=for-the-badge&logo=yaml&logoColor=white" />
-    </td>
-    <td align="center">
-      <strong>GitHub Activity</strong><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=mostafabendary&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=mostafabendary&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<br><br>
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafabendary&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+</div>
 
 
 ### 🛠️ DevOps Tools
