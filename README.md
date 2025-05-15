@@ -120,3 +120,20 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 ### 🚀 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafabendary&layout=compact&theme=tokyonight&hide_border=true)
 
+----
+
+## 📊 GitHub Statistics
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h2>🔥 GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=mostafa-bendary17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="500" />
+    </td>
+    <td align="center" width="50%">
+      <h2>🚀 Most Used Languages</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-bendary17&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="500" />
+    </td>
+  </tr>
+</table>
+
