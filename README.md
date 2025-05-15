@@ -4,20 +4,20 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 ## 🛠️ DevOps Tools
 
 <p align="center">
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="60" alt="Terraform" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" alt="Terraform" style="margin-right:8px;" />
     Terraform
   </span>
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="60" alt="Jenkins" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" style="margin-right:8px;" />
     Jenkins
   </span>
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="60" alt="Docker" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker" style="margin-right:8px;" />
     Docker
   </span>
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="60" alt="Kubernetes" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" style="margin-right:8px;" />
     Kubernetes
   </span>
 </p>
@@ -25,16 +25,16 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 ## ⚙️ CI/CD & Version Control
 
 <p align="center">
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="60" alt="GitHub" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub" style="margin-right:8px;" />
     GitHub
   </span>
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" alt="Git" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" style="margin-right:8px;" />
     Git
   </span>
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" height="60" alt="Bitbucket" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket" style="margin-right:8px;" />
     Bitbucket
   </span>
 </p>
@@ -42,12 +42,12 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 ## 📈 Monitoring & Logging
 
 <p align="center">
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="60" alt="Prometheus" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" style="margin-right:8px;" />
     Prometheus
   </span>
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="60" alt="Grafana" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="40" alt="Grafana" style="margin-right:8px;" />
     Grafana
   </span>
 </p>
@@ -55,12 +55,12 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 ## ☁️ Cloud Platforms
 
 <p align="center">
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="60" alt="Azure" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" alt="Azure" style="margin-right:8px;" />
     Azure
   </span>
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="60" alt="AWS" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="40" alt="AWS" style="margin-right:8px;" />
     AWS
   </span>
 </p>
@@ -68,16 +68,16 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 ## 💻 Languages, Scripting & Databases
 
 <p align="center">
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" alt="Python" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" style="margin-right:8px;" />
     Python
   </span>
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="60" alt="Bash" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" alt="Bash" style="margin-right:8px;" />
     Bash
   </span>
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="60" alt="MySQL" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin-right:8px;" />
     MySQL
   </span>
 </p>
@@ -85,12 +85,12 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 ## 🖥️ Operating Systems
 
 <p align="center">
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="60" alt="Linux" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" style="margin-right:8px;" />
     Linux
   </span>
-  <span style="display:inline-block; width:120px; margin:10px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="60" alt="Windows" /><br>
+  <span style="display:inline-flex; align-items:center; width:160px; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows" style="margin-right:8px;" />
     Windows
   </span>
 </p>
