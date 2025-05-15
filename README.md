@@ -101,11 +101,11 @@ I'm Mostafa Bendary, a DevOps Engineer at Watan First Digital...
 <table>
   <tr>
     <td align="center" width="50%">
-      <strong style="font-size: 24px;">### 🔥 GitHub Stats</strong><br><br>
+      <strong style="font-size: 30px;">🔥 GitHub Stats</strong><br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=mostafabendary&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="600" />
     </td>
     <td align="center" width="50%">
-      <strong style="font-size: 24px;">### 🚀 Most Used Languages</strong><br><br>
+      <strong style="font-size: 30px;">🚀 Most Used Languages</strong><br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafabendary&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="600" />
     </td>
   </tr>
