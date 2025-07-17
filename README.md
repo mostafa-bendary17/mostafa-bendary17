@@ -176,6 +176,29 @@ Each environment featured:
 
 ---
 
+### 💾 Automated Production Database Backup Pipeline
+
+- Developed a **fully automated backup solution** for production SQL Server databases.
+- Configured **SQL Server Agent** to generate daily `.bak` files on the production server.
+- Created an **Azure DevOps pipeline using the Classic Wizard** to:
+  - **Zip backup files** via PowerShell.
+  - **Upload zipped files to Azure Artifacts**.
+  - **Transfer files to a remote FTP backup server** using a secure PowerShell script.
+- Built a **Release pipeline** to:
+  - **Retrieve zipped backups from Azure Artifacts**.
+  - **Copy them to a local on-premises backup server**.
+- Scheduled to run **daily**, ensuring continuous protection and recovery readiness.
+- ✅ **Backup redundancy ensured by storing files in 4 secure locations**:
+  1. **Production Server** – original `.bak` files
+  2. **Azure Artifacts**
+  3. **FTP Backup Server**
+  4. **Local Backup Server**
+- Enhanced **disaster recovery strategy** and supported compliance and audit readiness.
+
+
+
+---
+
 # 🧰 IT & System Administration Skills
 
 - 📦 Installing and maintaining desktop/laptop environments **(Windows, Linux, macOS)**.
