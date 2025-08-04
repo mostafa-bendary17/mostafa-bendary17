@@ -102,23 +102,6 @@ Welcome to my GitHub profile! I'm passionate about designing and implementing CI
 
 ---
 
-## 🏆 Achievements & Process Improvement
-
-📌 Part of the core team that achieved the **CMMI Certification** for Watan First Digital Company  
-📂 Prepared and documented all required processes, workflows, and CM audit materials for CMMI assessments  
-🎖️ Honored as the **Best Employee of the Quarter** at Watan First Digital Company  
-🎖️ Honored as the **Best Employee of the Month** at my first company
-  
----
-
-### 🐧 Linux & ERP Server Administration
-- 🖥️ Installed, configured, and administered **Ubuntu Server** to host and manage an **ERP system**
-- 🔧 Performed server hardening, network configuration, application setup, and daily maintenance
-
----
-
----
-
 ## 🏗️ Key DevOps Projects & Achievements
 
 ### 🚀 Multi-Environment Setup with Isolated Databases
@@ -174,7 +157,6 @@ Engineered a fully automated CI/CD pipeline for Flutter mobile applications.
 - Integrated Firebase App Distribution and Apple TestFlight for build distribution.
 - Configured automated notifications to testers via Firebase after successful builds.
 - Reduced mobile release preparation time by 75%.
-
 
 ---
 
@@ -236,6 +218,12 @@ Key responsibilities included:
 
 ---
 
+### 🐧 Linux & ERP Server Administration
+- 🖥️ Installed, configured, and administered **Ubuntu Server** to host and manage an **ERP system**
+- 🔧 Performed server hardening, network configuration, application setup, and daily maintenance
+
+---
+
 🎯 **Ongoing Certifications & DevSecOps Training**
 
 As part of my continuous learning journey, I am actively pursuing the following industry-recognized certifications:
@@ -257,6 +245,16 @@ As part of my continuous learning journey, I am actively pursuing the following 
 
 This program strengthens my expertise in securing and automating infrastructure, CI/CD pipelines, and cloud-native workloads.
 
+---
+
+## 🏆 Achievements & Process Improvement
+
+📌 Part of the core team that achieved the **CMMI Certification** for Watan First Digital Company  
+📂 Prepared and documented all required processes, workflows, and CM audit materials for CMMI assessments  
+🎖️ Honored as the **Best Employee of the Quarter** at Watan First Digital Company  
+🎖️ Honored as the **Best Employee of the Month** at my first company
+
+  
 ----
 ## 📊 GitHub Statistics
 
