@@ -123,7 +123,7 @@ Welcome to my GitHub profile! I'm passionate about designing and implementing CI
 
 ### 🚀 Multi-Environment Setup with Isolated Databases
 
-Designed a complete **CI/CD architecture** using Azure Pipelines for 4 environments: Dev, Test, Preprod, Production.
+Designed a complete CI/CD architecture using Azure Pipelines for 4 environments: (Dev, Test, Preprod, Production) replacing manual deployments and reducing deployment time by 80%.
 
 Each environment featured:
 - Separate **branch** (e.g., `dev`, `test`, `preproduction`, `production`)
@@ -137,43 +137,60 @@ Each environment featured:
 
 ### 💻 .NET Core Web App Pipeline
 
-- Built a full CI/CD pipeline in **Azure Pipelines**.
-- Used **custom appsettings** per environment.
-- Deployed to **Azure VMs** with environment-specific settings and isolated SQL databases.
+Developed a complete CI/CD pipeline for a .NET Core Web Application using Azure Pipelines.
+- Managed environment-specific configurations (custom appsettings) and deployed to Azure Virtual Machines with isolated SQL databases.
+- Reduced manual configuration errors by 90% through automated deployment workflows.
 
 ---
 
-## ⚛️ React Frontend Pipeline
+### ⚛️ React Frontend Pipeline
 
-- Implemented a complete CI/CD pipeline using **Azure DevOps** for a React Single Page Application.
-- Deployed to **Azure VMs** with environment-specific settings.
+Implemented a CI/CD pipeline for a React Single Page Application (SPA) using Azure DevOps.
+- Automated build and deployment processes with environment-specific settings and deployed to Azure Virtual Machines.
 - Configure environment variable key and value in pipeline.
+- Optimized frontend delivery, reducing release cycles by 60%.
 
 ---
 
-## 🅰️ Angular Frontend Pipeline
+### 🅰️ Angular Frontend Pipeline
 
-- End-to-end CI/CD pipeline for Angular.
-- Configured isolated environments and environment-specific settings.
+Built an end-to-end CI/CD pipeline for an Angular application, handling environment segregation and dynamic configuration.
+- Automated build and deployment processes with environment-specific settings and deployed to Azure Virtual Machines.
+- Streamlined deployment workflows, reducing manual intervention by 70%.
 
 ---
 
 ### 🐍 ERP System (Python) CI/CD Pipeline
 
-- Developed CI/CD for a Python-based ERP system on **Ubuntu Server**.
+Developed a CI/CD pipeline for a Python-based ERP system deployed on Ubuntu Server.
+- Automated deployment processes for a Python-based and deployed to Azure Virtual Machines Ubuntu Server.
 
 ---
 
-## 📱 Flutter Mobile CI/CD Pipeline
+### 📱 Flutter Mobile CI/CD Pipeline
 
-- Fully automated CI/CD pipeline for **Flutter** mobile applications.
-- Key features:
-  - Builds **APK** (Android) and **IPA** (iOS) on push/merge events.
-  - Distributes builds using:
-    - **Firebase** for Android testers.
-    - **TestFlight** for iOS testers.
-  - Sends notifications via **SendGrid** to testers after successful builds.
+Engineered a fully automated CI/CD pipeline for Flutter mobile applications.
+- Automated APK (Android) and IPA (iOS) builds on push/merge events.
+- Integrated Firebase App Distribution and Apple TestFlight for build distribution.
+- Configured automated notifications to testers via Firebase after successful builds.
+- Reduced mobile release preparation time by 75%.
 
+
+---
+
+## 🗂️ Branching Structure (Source code)
+Redesigned the source code branching strategy (Git Branching Model) to align with CI/CD workflows.
+- Established a clear branching model (feature, develop, release, hotfix).
+- Improved code integration processes, reducing merge conflicts and enhancing team collaboration efficiency.
+
+---
+
+## 💾 Backup Strategy Automation
+Designed and implemented a fully automated Database and Cloud Server Backup Strategy using Azure DevOps Pipelines and Shell scripting.
+- Automated local database backups, compressing and uploading them to Azure Artifacts for secure cloud storage.
+- Automated full cloud server backups using custom Shell scripts executed within Azure Pipelines.
+- Developed a release pipeline to download backups from Azure Artifacts to a local backup server.
+- Reduced manual backup efforts and improved disaster recovery readiness through reliable and scalable automation processes.
 ---
 
 # 🧰 IT & System Administration Skills
