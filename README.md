@@ -8,10 +8,10 @@
 
 Building **secure, automated, reliable and scalable** enterprise platforms.
 
-![LinkedIn](https://www.linkedin.com/in/mostafa-el-bendary)
-![GitHub](https://github.com/mostafa-bendary17)
-![Gmail](mailto:mostafa.bendary1989@gmail.com)
-![Outlook](mailto:mostafa.bendary1989@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-el-bendary)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostafa-bendary17)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.bendary1989@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mostafa.bendary1989@hotmail.com)
 
 </div>
 
@@ -45,61 +45,61 @@ Previously, I worked as **DevOps Engineer & IT System Admin Supervisor at Watan 
 ## 🛠️ Technologies & Tools
 
 ### 🔄 CI/CD, Source Control & Delivery
-!Azure DevOps
-!Azure Pipelines
-!Jenkins
-!GitHub Actions
-!Git
-!GitHub
-!Bitbucket
-!YAML
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ### ☁️ Cloud, Virtualization & Infrastructure
-!Oracle Cloud
-!Microsoft Azure
-!AWS
-!VMware
-!Hyper-V
-!Terraform
-!Ansible
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-008CBE?style=for-the-badge&logo=windows&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### 🐳 Containers & Orchestration
-!Docker
-!Kubernetes
-!Helm
-!OpenShift
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
 ### 🔐 Security, Compliance & DevSecOps
-!Wazuh
-!OpenVAS
-!OWASP ZAP
-!SonarQube
-!CIS Benchmarks
-!OCI WAF
-!IAM / PAM
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=shield&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS%20%2F%20Greenbone-287C3B?style=for-the-badge&logo=shield&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![CIS Benchmarks](https://img.shields.io/badge/CIS_Benchmarks-253B63?style=for-the-badge)
+![OCI WAF](https://img.shields.io/badge/OCI_WAF-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![IAM / PAM](https://img.shields.io/badge/IAM_%2F_PAM-4B5563?style=for-the-badge)
 
 ### 📊 Monitoring, Logging & Observability
-!Prometheus
-!Grafana
-!Seq
-!Kibana
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Seq](https://img.shields.io/badge/Seq-Centralized_Logging-44546A?style=for-the-badge)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 ### 🗄️ Databases & High Availability
-!SQL Server
-!PostgreSQL
-!MySQL
-!Redis
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🐧 Operating Systems & Scripting
-!Ubuntu
-!Windows Server
-!Red Hat
-!CentOS
-!Fedora
-!Bash
-!PowerShell
-!Python
-!Groovy
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
 
 ---
 
@@ -301,13 +301,13 @@ My DevOps and cloud engineering background is grounded in years of hands-on infr
 
 ### 🏅 Certifications & Qualifications
 
-!AZ-400 **Microsoft Certified: DevOps Engineer Expert**  
-!AZ-104 **Microsoft Certified: Azure Administrator Associate**  
-!Agile **Agile Foundation / Practitioner Training & Certification**  
-!MCSA **Microsoft Certified Solutions Associate (MCSA)**  
-!Networking **Youth Professional Diploma in Networking (YPDN)**  
-!CompTIA **CompTIA A+ Certified Technician**  
-!ICDL **International Computer Driving License (ICDL)**
+![AZ-400](https://img.shields.io/badge/AZ--400-0078D4?style=flat&logo=microsoftazure&logoColor=white) **Microsoft Certified: DevOps Engineer Expert**  
+![AZ-104](https://img.shields.io/badge/AZ--104-0078D4?style=flat&logo=microsoftazure&logoColor=white) **Microsoft Certified: Azure Administrator Associate**  
+![Agile](https://img.shields.io/badge/Agile-29ABE2?style=flat) **Agile Foundation / Practitioner Training & Certification**  
+![MCSA](https://img.shields.io/badge/MCSA-0078D4?style=flat) **Microsoft Certified Solutions Associate (MCSA)**  
+![Networking](https://img.shields.io/badge/Networking-0052CC?style=flat) **Youth Professional Diploma in Networking (YPDN)**  
+![CompTIA](https://img.shields.io/badge/CompTIA_A%2B-E10098?style=flat&logo=comptia&logoColor=white) **CompTIA A+ Certified Technician**  
+![ICDL](https://img.shields.io/badge/ICDL-0066B3?style=flat) **International Computer Driving License (ICDL)**
 
 ### 🎓 DevSecOps Diploma — 360 Hours (Training)
 
@@ -343,11 +343,11 @@ Hands-on coursework and professional development covering:
 
 <div align="center">
 
-!GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafa-bendary17&show_icons=true&theme=tokyonight&hide_border=true)
 
-!Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-bendary17&layout=compact&theme=tokyonight&hide_border=true)
 
-!Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=mostafa-bendary17&style=flat-square)
 
 </div>
 
@@ -357,7 +357,7 @@ Hands-on coursework and professional development covering:
 
 I'm interested in **DevOps, DevSecOps, Cloud Engineering, Platform Engineering, Infrastructure Security and enterprise reliability**.
 
-![LinkedIn](https://www.linkedin.com/in/mostafa-el-bendary)
-![Email](mailto:mostafa.bendary1989@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-el-bendary)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.bendary1989@gmail.com)
 
 **Thanks for visiting my profile!** 🚀
