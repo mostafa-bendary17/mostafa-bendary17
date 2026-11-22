@@ -1,291 +1,363 @@
-# 👋 Hi there, I'm Mostafa El Bendary!
+<div align="center">
 
-### DevOps Engineer | System Administrator Supervisor | Cloud Enthusiast | Automation Expert | DevSecOps Learner
+# 👋 Hi, I'm Mostafa El Bendary
 
-Welcome to my GitHub profile! I'm passionate about designing and implementing CI/CD pipelines, automating infrastructure, and building scalable systems. Here, you'll find some of my projects, contributions, and more about my journey in tech.
+### 🚀 Senior DevOps & Cloud Engineer | DevSecOps | Platform Engineering | Infrastructure Security
 
----
+**15+ Years of Experience in IT Infrastructure, Systems Administration, Cloud & DevOps**
 
-## 🚀 About Me
+Building **secure, automated, reliable and scalable** enterprise platforms.
 
-- 🔭 Currently working as a **DevOps Engineer** at **Watan First Digital**.
-- 🌱 Lifelong learner exploring **cloud computing**, **containerization**, **DevSecOps**, and **infrastructure automation**.
-- 💼 Over **12 years of experience** in IT infrastructure, system administration, and DevOps engineering.
-
----
-
-## 📬 Social & Contact Info
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.bendary1989@gmail.com)
-[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mostafa.bendary1989@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-el-bendary)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostafa-bendary17)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostafa-bendary17)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.bendary1989@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mostafa.bendary1989@hotmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Senior DevOps & Cloud Engineer at ARIB** with **15+ years of experience** spanning enterprise infrastructure, Linux and Windows administration, CI/CD automation, cloud operations, database platforms, observability and security engineering.
+
+My work connects **platform reliability**, **delivery automation** and **security/compliance readiness**. I help teams modernize infrastructure, build repeatable deployment workflows, strengthen access controls, improve visibility into production systems and prepare technical evidence for governance and regulatory reviews.
+
+Previously, I worked as **DevOps Engineer & IT System Admin Supervisor at Watan First Digital** and **Senior IT System Administrator at IBS Valley**.
+
+### 📌 Career at a Glance
+
+| Area | Experience / Scope |
+| --- | --- |
+| 🧭 Professional experience | **15+ years** across IT infrastructure, systems and DevOps |
+| ☁️ Cloud operations | Enterprise OCI ownership; Azure and AWS experience |
+| 🔄 Delivery automation | **50+ CI/CD pipelines** across multiple application stacks |
+| 🖥️ Infrastructure | **30+ Linux and Windows servers** |
+| 📦 Application estate | Approximately **50 applications** |
+| 🗄️ Database modernization | Approximately **20 databases migrated** |
+| 🛡️ CIS improvement | Improved a selected Ubuntu server's CIS assessment from **42% to 76%** |
+| 🏛️ Regulatory & governance | Team contributions to **successful SAMA license renewal** and **CMMI certification** |
+
+> Figures describe selected project scope and achievements, not organization-wide compliance claims.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### **CI/CD**
-![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)
+### 🔄 CI/CD, Source Control & Delivery
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### **Cloud Platforms & Virtualization**
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-008CBE?style=for-the-badge&logo=windows&logoColor=white)
-
-### **Containerization & Orchestration**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### **Monitoring & Logging**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### **Languages & Scripting**
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
-
-### **Version Control**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Azure Repos](https://img.shields.io/badge/Azure%20Repos-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-## 🗄️ Databases & Administration
+### ☁️ Cloud, Virtualization & Infrastructure
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-008CBE?style=for-the-badge&logo=windows&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+
+### 🔐 Security, Compliance & DevSecOps
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=shield&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS%20%2F%20Greenbone-287C3B?style=for-the-badge&logo=shield&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![CIS Benchmarks](https://img.shields.io/badge/CIS_Benchmarks-253B63?style=for-the-badge)
+![OCI WAF](https://img.shields.io/badge/OCI_WAF-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![IAM / PAM](https://img.shields.io/badge/IAM_%2F_PAM-4B5563?style=for-the-badge)
+
+### 📊 Monitoring, Logging & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Seq](https://img.shields.io/badge/Seq-Centralized_Logging-44546A?style=for-the-badge)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+### 🗄️ Databases & High Availability
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### **Operating Systems**
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+### 🐧 Operating Systems & Scripting
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
 
 ---
 
-## 📚 Certifications
+## ☁️ Enterprise Cloud & DevOps Achievements — ARIB (2026)
 
-### 🏅 Official IT Certifications
+### 🏗️ 1. Cloud Platform Operations & OCI Infrastructure Ownership
 
-- ![AZ-400](https://img.shields.io/badge/AZ--400%20Azure%20DevOps%20Expert-0078D4?logo=microsoftazure&logoColor=white) **Microsoft Certified Azure DevOps Engineer Expert**
-- ![AZ-104](https://img.shields.io/badge/AZ--104%20Azure%20Administrator-0078D4?logo=microsoftazure&logoColor=white) **Microsoft Certified Azure Administrator Associate**
-- ![Agile](https://img.shields.io/badge/Agile%20Certified-29ABE2?style=flat&logo=agile&logoColor=white) **Agile Practitioner Certification**
-- ![MCSA](https://img.shields.io/badge/MCSA-0078D4?logo=microsoft&logoColor=white&style=flat) **Microsoft Certified: MCSA**
-- ![YPDN](https://img.shields.io/badge/YPDN%20Network%20Diploma-0052CC?style=flat&logo=graduation-cap&logoColor=white) **Youth Professional Diploma in Networking**
-- ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-E10098?style=flat&logo=comptia&logoColor=white) **CompTIA A+ Certified Technician**
-- ![ICDL](https://img.shields.io/badge/ICDL-0066B3?style=flat&logo=icdl&logoColor=white) **International Computer Driving License**
+- Took on **end-to-end operational ownership of the OCI cloud platform** within the DevOps function.
+- Managed cloud compute provisioning, resizing, storage expansion, networking, access and infrastructure lifecycle operations.
+- Worked with **VCNs, subnets, route tables, security lists, network security groups, load balancers, listeners, backend sets and TLS certificates**.
+- Supported **IPSec VPN, DRG connectivity and routing** for secure access between environments and sites.
+- Managed operational changes through infrastructure reviews, technical documentation and coordination with stakeholders.
+- Contributed to infrastructure modernization and more consistent separation of application, API, utility and database roles.
 
-### 🎓 DevSecOps Diploma (360 hours) - In Progress
+### 🌍 2. Multi-Environment Engineering & Isolation
 
-- ✅ **Linux I & II**
-- ✅ **Bash Scripting**
-- ✅ **Python Programming Foundations**
-- ✅ **SDLC & Microservices**
-- ✅ **Software Testing Techniques**
-- ✅ **Hacking Concepts & Tools (CEH v12)**
-- ✅ **Web App Penetration Testing (OWASP)**
-- ✅ **Incident Response (ECIR)**
-- ✅ **Log Collection & SIEM Solutions**
-- ✅ **Docker, Kubernetes, HELM**
-- ✅ **CI/CD with Jenkins, GitLab, GitHub Actions, ArgoCD**
-- ✅ **Monitoring with Prometheus, Grafana, Kibana**
-- ✅ **Cloud Computing Basics & AWS Practitioner**
-- ✅ **OpenShift, Ansible, Terraform**
+- Built a dedicated **Development environment from scratch**, including Linux application hosting, Windows database infrastructure, DNS, TLS and automated deployment workflows.
+- Built and stabilized **Test / QC** infrastructure and its deployment workflows.
+- Built a separate **Pre-production environment**, removing previous reliance on production-hosted pre-production workloads.
+- Supported ongoing **Production modernization and application migration** to purpose-built infrastructure.
+- Standardized deployment configuration, service management, Nginx reverse proxy patterns and environment-specific settings.
+- Helped reduce configuration drift and risk from shared environments.
 
----
+### 🔄 3. CI/CD Modernization & Release Governance
 
-## 🏗️ Key DevOps Projects & Achievements
+- Managed **50+ CI/CD pipelines** supporting .NET, PHP, Angular and other application workloads.
+- Modernized delivery workflows using **Azure DevOps YAML pipelines and reusable templates**.
+- Configured **self-hosted build/deployment agents** and improved pipeline execution through parallelism and standardization.
+- Introduced environment-specific deployment controls, **approval gates**, backup/rollback steps and release governance.
+- Integrated application security checks, including **OWASP ZAP**, into selected delivery workflows.
+- Supported migration away from manual and legacy deployment patterns.
 
-### 🚀 Multi-Environment Setup with Isolated Databases
+### 🛡️ 4. Vulnerability Management & CIS Compliance — Built from Scratch
 
-Designed a complete CI/CD architecture using Azure Pipelines for 4 environments: (Dev, Test, Preprod, Production) replacing manual deployments and reducing deployment time by 80%.
+- Helped establish **vulnerability assessment and CIS configuration assessment capabilities from the ground up** where no formal scanning process previously existed.
+- Deployed and administered **Wazuh** with Linux and Windows agents for security configuration assessment and visibility.
+- Used **OpenVAS/Greenbone** for vulnerability assessments, reporting and remediation validation; worked with related vulnerability management evidence and tooling.
+- Created technical security reports and tracked findings through remediation and reassessment.
+- Performed **Ubuntu CIS hardening**, including auditing, file integrity monitoring, service reduction and secure SSH configuration.
+- Improved a selected Ubuntu server's CIS assessment score from **42% to 76%** through controlled hardening activities.
+- Established recurring vulnerability and CIS review practices, including post-change assessment and remediation follow-up.
 
-Each environment featured:
-- Separate **branch** (e.g., `dev`, `test`, `preproduction`, `production`)
-- Unique **subdomain** (e.g., `dev.example.com`)
-- Dedicated **IIS Application Pool**
-- Isolated **SQL Server database**
+### 🔐 5. Access Security, IAM/PAM & Cloud WAF
 
-> ✅ Fully automated deployments triggered by branch events.
+- Restricted administrative jump-host access to **VPN-connected users** rather than public internet exposure.
+- Supported **miniOrange IAM/PAM** operations and improved privileged access controls, including MFA.
+- Strengthened Linux access using SSH key-based authentication, dedicated administrative accounts and reduced direct privileged access.
+- Investigated **OCI WAF events**, suspicious IP activity, SQL injection and XSS indicators, and sensitive-file probing attempts.
+- Supported security-rule tuning, malicious IP blocking, review of legitimate traffic and incident documentation.
+- Coordinated remediation evidence and security findings with relevant teams.
 
----
+### 📈 6. Monitoring, Centralized Logging & Operational Visibility
 
-### 💻 .NET Core Web App Pipeline
+- Implemented **Prometheus and Grafana** monitoring for Linux infrastructure, including exporters and provisioned dashboards.
+- Supported application and service **health-check dashboards** to improve operational visibility.
+- Operated and enhanced **Seq centralized application logging** for troubleshooting and analysis.
+- Worked on custom **Grafana integrations and reporting capabilities**, including analytical dashboards and PDF/Excel report exports in the test environment.
+- Improved visibility into infrastructure health, application events and operational incidents.
 
-Developed a complete CI/CD pipeline for a .NET Core Web Application using Azure Pipelines.
-- Managed environment-specific configurations (custom appsettings) and deployed to Azure Virtual Machines with isolated SQL databases.
-- Reduced manual configuration errors by 90% through automated deployment workflows.
+### 🗄️ 7. Database Migration, Availability & Optimization
 
----
+- Supported migration of approximately **20 SQL Server and PostgreSQL databases** as part of infrastructure modernization.
+- Implemented and validated **SQL Server Always On Availability Groups**, including replica synchronization, listener connectivity and failover testing.
+- Updated application database connectivity and supported migration verification.
+- Helped retire **three legacy database servers**, reducing legacy infrastructure and licensing requirements.
+- Worked on PostgreSQL infrastructure design, replication/HA preparation and operational configuration reviews.
+- Troubleshot database recovery and high-availability issues while prioritizing data integrity and production continuity.
 
-### ⚛️ React Frontend Pipeline
+### ⚙️ 8. Operational Automation & Production Reliability
 
-Implemented a CI/CD pipeline for a React Single Page Application (SPA) using Azure DevOps.
-- Automated build and deployment processes with environment-specific settings and deployed to Azure Virtual Machines.
-- Configure environment variable key and value in pipeline.
-- Optimized frontend delivery, reducing release cycles by 60%.
-
----
-
-### 🅰️ Angular Frontend Pipeline
-
-Built an end-to-end CI/CD pipeline for an Angular application, handling environment segregation and dynamic configuration.
-- Automated build and deployment processes with environment-specific settings and deployed to Azure Virtual Machines.
-- Streamlined deployment workflows, reducing manual intervention by 70%.
-
----
-
-### 🐍 ERP System (Python) CI/CD Pipeline
-
-Developed a CI/CD pipeline for a Python-based ERP system deployed on Ubuntu Server.
-- Automated deployment processes for a Python-based and deployed to Azure Virtual Machines Ubuntu Server.
+- Managed **30+ Linux and Windows servers** across multiple environments.
+- Automated administrative and deployment tasks using **Bash, PowerShell and YAML**.
+- Standardized Nginx, systemd, TLS certificate and application runtime configurations.
+- Supported production troubleshooting, infrastructure capacity adjustments and controlled security remediation.
+- Produced operational documentation, infrastructure inventories and technical diagrams to support maintainability and audit readiness.
 
 ---
 
-### 📱 Flutter Mobile CI/CD Pipeline
+## 🏛️ Compliance, Governance & Regulatory Achievements
 
-Engineered a fully automated CI/CD pipeline for Flutter mobile applications.
-- Automated APK (Android) and IPA (iOS) builds on push/merge events.
-- Integrated Firebase App Distribution and Apple TestFlight for build distribution.
-- Configured automated notifications to testers via Firebase after successful builds.
-- Reduced mobile release preparation time by 75%.
+### 🏦 Saudi Central Bank (SAMA) — Successful License Renewal | ARIB
 
----
+**Contributed as a member of the cross-functional team supporting ARIB's successful license renewal with the Saudi Central Bank (SAMA).**
 
-## 🗂️ Branching Structure (Source code)
-Redesigned the source code branching strategy (Git Branching Model) to align with CI/CD workflows.
-- Established a clear branching model (feature, develop, release, hotfix).
-- Improved code integration processes, reducing merge conflicts and enhancing team collaboration efficiency.
+- 🔐 Supported security and infrastructure-related regulatory requirements.
+- 🛡️ Implemented vulnerability assessment and CIS security assessment capabilities, including findings tracking and remediation evidence.
+- 📊 Prepared technical security reports, infrastructure documentation and supporting evidence for compliance reviews.
+- 🔍 Investigated findings, coordinated remediation activities and validated improvements through reassessment.
+- 🔑 Strengthened administrative access controls through VPN restrictions, IAM/PAM, MFA and infrastructure hardening.
+- 🤝 Collaborated with infrastructure, security and governance stakeholders throughout the renewal effort.
 
----
+**🏆 Outcome:** Contributed to the team's **successful SAMA license renewal** through technical security, infrastructure and evidence-readiness work.
 
-## 💾 Backup Strategy Automation
-Designed and implemented a fully automated Database and Cloud Server Backup Strategy using Azure DevOps Pipelines and Shell scripting.
-- Automated local database backups, compressing and uploading them to Azure Artifacts for secure cloud storage.
-- Automated full cloud server backups using custom Shell scripts executed within Azure Pipelines.
-- Developed a release pipeline to download backups from Azure Artifacts to a local backup server.
-- Reduced manual backup efforts and improved disaster recovery readiness through reliable and scalable automation processes.
----
+### 🏅 CMMI Certification Achievement | Watan First Digital
 
-# 🧰 IT & System Administration Skills
+**Contributed as a core team member to Watan First Digital's successful CMMI certification initiative.**
 
-- 📦 Installing and maintaining desktop/laptop environments **(Windows, Linux, macOS)**.
-- 🧑‍💻 **Providing technical support** for office systems, productivity tools, and applications.
-- 🛠 **Troubleshooting hardware and software issues** across multiple environments.
-- 💬 Supporting end users with onboarding/offboarding, **remote assistance**, and IT policy guidance.
-- 🖨️ Installing and maintaining shared **printers, scanners**, and multifunction devices
-- 🧑‍💻 Providing **L1/L2/L3 technical support** with high user satisfaction
-- ⚙️ Installing, configuring, and troubleshooting **AD DS, DNS, DHCP, GPO**, and File Server  
-- 📂 Managing **Group Policies**, login scripts, and user/computer objects in Active Directory
-- 📁 Administering **file servers, shared permissions**, NTFS security, and storage quotas.
-- 👥 Administering **local and remote user accounts**, security groups, and organizational units (OUs)
-- 👤 Creating, managing, and auditing user accounts, groups, and OUs in Active Directory.
-- 🌐 Installing and configuring routers, switches, and access points (Cisco, MikroTik, TP-Link, Ubiquiti).
-- 🔐 Configuring and managing **firewalls such as Sophos, and MikroTik** for secure network access.
-- 🧱 Deploying and managing virtual machines using **VMware and Hyper-V**.
-- ♻️ Planning and implementing backup solutions **SQL Backup**.
-- 🛡️ Enforcing IT security policies, patch management, and endpoint protection **ESET, Sophos**.
-- 📏 Ensuring compliance with IT operational standards and documentation best practices.
-- 📝 Writing SOPs, **IT documentation, topology diagrams, and asset inventories**.
-- 🔄 Automating routine tasks using **PowerShell, Bash scripts**, and scheduled tasks.
-- 🌐 **Diagnosing and resolving network connectivity issues**.
-- 📏 **Enforcing compliance** with IT policies and operational standards.
+- 📋 Prepared and documented organizational processes, operational workflows and procedures.
+- 📂 Organized **configuration management (CM)** documentation and assessment evidence.
+- ⚙️ Supported process standardization and improvement in IT and DevOps operations.
+- 🔄 Helped align operational practices with documented process requirements.
+- 🤝 Worked with cross-functional teams on assessment preparation and audit activities.
+
+**🏆 Outcome:** Contributed to the company's **successful CMMI certification achievement**.
 
 ---
 
-## 🌐 IT Projects: Network Infrastructure
+## 🚀 Previous DevOps Projects & Delivery Engineering
 
-### 🏢 Network Infrastructure Projects – Various Clients
+### 🌐 Multi-Environment CI/CD Architecture | Watan First Digital
 
-Designed and implemented full-scale **IT infrastructure** across 4 branch offices.
+Designed CI/CD workflows using **Azure Pipelines** for **Development, Test, Pre-production and Production** environments, replacing manual deployment steps.
 
-Key responsibilities included:
-- Installing and configuring **racks, routers, switches, access points, and firewalls** (Sophos, Microtech).
-- Executing **cable crimping**, patch panel work, and network node setup.
-- Deploying and maintaining **UPS systems** for power continuity.
-- Managed and configured **NVR IP camera systems** for surveillance.
-- Deployed **Grandstream call center solutions**, including extension configuration and network integration.
-- Set up and maintained **on-premises servers**, including **Domain Controllers** and **network backup storage** for business continuity.
-- Ensured **secure, high-availability** networking across all branches.
+- Established environment-specific branches, domains, application configurations and **isolated SQL Server databases**.
+- Configured dedicated **IIS application pools** for Windows-hosted workloads.
+- Automated deployment triggers and environment-specific release workflows.
+- Reported **80% reduction in deployment time** in the original project summary.
+
+### 💻 .NET Core Web Application CI/CD
+
+- Developed Azure Pipelines for .NET Core applications deployed to Azure virtual machines.
+- Managed environment-specific `appsettings` and isolated SQL databases.
+- Automated application delivery and reduced manual configuration work.
+- Original project estimate: **90% fewer manual configuration errors**.
+
+### ⚛️ React SPA CI/CD
+
+- Built automated React frontend pipelines with environment-specific settings.
+- Managed pipeline variables and deployment to Azure virtual machines.
+- Original project estimate: **60% shorter release cycles**.
+
+### 🅰️ Angular Frontend CI/CD
+
+- Implemented end-to-end Angular build and deployment automation.
+- Managed dynamic environment configuration and Azure VM deployment.
+- Original project estimate: **70% reduction in manual intervention**.
+
+### 🐍 Python ERP Deployment on Ubuntu
+
+- Created a CI/CD pipeline for a Python-based ERP application hosted on Ubuntu Server.
+- Automated build and deployment tasks to Linux virtual machines.
+- Supported server setup, configuration and operational maintenance.
+
+### 📱 Flutter Mobile Application CI/CD
+
+- Automated **Android APK and iOS IPA** build workflows on source-control events.
+- Integrated **Firebase App Distribution** and **Apple TestFlight** for tester delivery.
+- Configured release notifications to testers.
+- Original project estimate: **75% reduction in mobile release preparation time**.
+
+### 🌿 Git Branching & Source Control Improvements
+
+- Redesigned branching workflows using **feature, develop, release and hotfix** patterns.
+- Improved alignment between source-control practices and CI/CD workflows.
+- Supported smoother integration and collaboration across engineering teams.
+
+### 💾 Automated Database & Cloud Server Backup Strategy
+
+- Automated local database backups, compression and upload to **Azure Artifacts**.
+- Created Shell-script-driven cloud server backup workflows triggered through Azure Pipelines.
+- Built release workflows to retrieve backup artifacts to a local backup server.
+- Reduced repetitive manual backup tasks and improved recovery preparation.
+
+> Historical percentage improvements above are retained from my original project portfolio and should be treated as project-reported estimates unless separately validated.
 
 ---
+
+## 🧰 Infrastructure & System Administration Foundation
+
+My DevOps and cloud engineering background is grounded in years of hands-on infrastructure administration:
+
+- 🖥️ **Windows & Linux:** Windows Server, Ubuntu, Red Hat, CentOS, Fedora and desktop administration across Windows, Linux and macOS.
+- 🏢 **Microsoft infrastructure:** Active Directory Domain Services, DNS, DHCP, Group Policy, file services, user/group administration, NTFS permissions and storage quotas.
+- 🌐 **Networking:** Cisco, MikroTik, TP-Link and Ubiquiti routers, switches and wireless access points; connectivity troubleshooting and network configuration.
+- 🔥 **Firewalls & endpoint security:** Sophos, MikroTik, ESET, access policies and patch management.
+- 🧱 **Virtualization:** VMware, Hyper-V, VM provisioning and lifecycle management.
+- 💾 **Backup & continuity:** SQL backups, server backups, recovery planning and operational checks.
+- 🛠️ **Automation:** PowerShell, Bash, scheduled jobs, scripts and standard operating procedures.
+- 📚 **Documentation:** Infrastructure diagrams, inventories, technical runbooks, IT policies and operational procedures.
+- 🤝 **IT operations:** L1/L2/L3 support, onboarding/offboarding, remote support and systems troubleshooting.
+
+### 🏢 Network Infrastructure Projects — Multiple Client Branches
+
+- Designed and implemented IT infrastructure across **four branch offices**.
+- Installed and configured racks, routers, switches, access points, firewalls, patch panels and structured cabling.
+- Deployed UPS systems, network backup storage and on-premises domain controllers.
+- Installed and managed NVR/IP camera systems.
+- Deployed **Grandstream** call-center/telephony solutions, extensions and network integration.
+- Supported resilient connectivity and ongoing branch infrastructure operations.
 
 ### 🐧 Linux & ERP Server Administration
-- 🖥️ Installed, configured, and administered **Ubuntu Server** to host and manage an **ERP system**
-- 🔧 Performed server hardening, network configuration, application setup, and daily maintenance
+
+- Installed, configured and maintained Ubuntu servers hosting ERP applications.
+- Performed hardening, network configuration, application setup and routine maintenance.
 
 ---
 
-🎯 **Ongoing Certifications & DevSecOps Training**
+## 📚 Certifications & Professional Development
 
-As part of my continuous learning journey, I am actively pursuing the following industry-recognized certifications:
+### 🏅 Certifications & Qualifications
 
-- ☁️ **AWS Certified DevOps Engineer – Professional**
-- ☸️ **Certified Kubernetes Administrator (CKA)**
-- 🛠️ **HashiCorp Certified: Terraform Associate**
-- 🧩 **Red Hat Certified Specialist in Ansible Automation**
+![AZ-400](https://img.shields.io/badge/AZ--400-0078D4?style=flat&logo=microsoftazure&logoColor=white) **Microsoft Certified: DevOps Engineer Expert**  
+![AZ-104](https://img.shields.io/badge/AZ--104-0078D4?style=flat&logo=microsoftazure&logoColor=white) **Microsoft Certified: Azure Administrator Associate**  
+![Agile](https://img.shields.io/badge/Agile-29ABE2?style=flat) **Agile Foundation / Practitioner Training & Certification**  
+![MCSA](https://img.shields.io/badge/MCSA-0078D4?style=flat) **Microsoft Certified Solutions Associate (MCSA)**  
+![Networking](https://img.shields.io/badge/Networking-0052CC?style=flat) **Youth Professional Diploma in Networking (YPDN)**  
+![CompTIA](https://img.shields.io/badge/CompTIA_A%2B-E10098?style=flat&logo=comptia&logoColor=white) **CompTIA A+ Certified Technician**  
+![ICDL](https://img.shields.io/badge/ICDL-0066B3?style=flat) **International Computer Driving License (ICDL)**
 
-📚 I am also completing a comprehensive **DevSecOps Diploma (360 hours)** covering:
+### 🎓 DevSecOps Diploma — 360 Hours (Training)
 
-- 🔐 Security tools: CEH v12, OWASP Top 10, SIEM
-- 🐧 Linux, Bash scripting, Python
-- 🐳 Docker, Kubernetes, OpenShift
-- 🧪 Jenkins, GitHub Actions, GitLab CI, Argo CD
-- 📦 Infrastructure as Code: Terraform, Ansible
-- 📊 Monitoring: Prometheus, Grafana, Kibana
-- ☁️ Multi-cloud operations: AWS, Azure
+Hands-on coursework and professional development covering:
 
-This program strengthens my expertise in securing and automating infrastructure, CI/CD pipelines, and cloud-native workloads.
+- 🐧 Linux I & II, Bash scripting and Python foundations
+- 🧪 SDLC, microservices and software testing
+- 🔐 CEH v12 concepts, OWASP web application testing, incident response and SIEM
+- 🐳 Docker, Kubernetes, Helm and OpenShift
+- 🔄 Jenkins, GitLab CI, GitHub Actions and Argo CD
+- 📊 Prometheus, Grafana and Kibana
+- ☁️ AWS fundamentals, Terraform and Ansible
+
+### 🎯 Professional Certification Goals
+
+- AWS Certified DevOps Engineer – Professional
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Terraform Associate
+- Red Hat Certified Specialist in Ansible Automation
 
 ---
 
-## 🏆 Achievements & Process Improvement
+## 🏆 Awards & Recognition
 
-📌 Part of the core team that achieved the **CMMI Certification** for Watan First Digital Company  
-📂 Prepared and documented all required processes, workflows, and CM audit materials for CMMI assessments  
-🎖️ Honored as the **Best Employee of the Quarter** at Watan First Digital Company  
-🎖️ Honored as the **Best Employee of the Month** at my first company
+- 🥇 **Best Employee of the Quarter** — Watan First Digital (recognized within the first four months).
+- 🏅 **Best Employee of the Month** — Earlier career recognition.
+- 🏛️ **SAMA License Renewal** — Team contribution to successful renewal at ARIB.
+- 📋 **CMMI Certification** — Core-team contribution at Watan First Digital.
 
-  
-----
+---
+
 ## 📊 GitHub Statistics
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h2>🔥 GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=mostafa-bendary17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="500" />
-    </td>
-    <td align="center" width="50%">
-      <h2>🚀 Most Used Languages</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-bendary17&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="500" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafa-bendary17&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-bendary17&layout=compact&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mostafa-bendary17&style=flat-square)
+
+</div>
 
 ---
 
-📫 **Let's Connect**
+## 📫 Let's Connect
 
-If you’re interested in working together or have any questions, feel free to reach out:
+I'm interested in **DevOps, DevSecOps, Cloud Engineering, Platform Engineering, Infrastructure Security and enterprise reliability**.
 
-## 📬 Social & Contact Info
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-el-bendary)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.bendary1989@gmail.com)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.bendary1989@gmail.com)
-[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mostafa.bendary1989@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-el-bendary)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostafa-bendary17)
-
----
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Mostafa-Bendo&style=flat-square)
-
-Thanks for checking out my portfolio!
+**Thanks for visiting my profile!** 🚀
